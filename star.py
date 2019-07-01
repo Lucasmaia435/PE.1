@@ -28,8 +28,6 @@ if __name__ == '__main__':
                 #if (np.all(img[i, j+1]>= stars_condition) and np.all(img[i-1, j]>= stars_condition) and np.all(img[i+1, j]>= stars_condition)  and np.all(img[i, j-1]>= stars_condition)):
                     #cont = cont - 4
                     #img[i, j] = (255-img[i, j])
-                if (np.all(img[i, j+1]>= stars_condition) and np.all(img[i-1, j]>= stars_condition) and np.all(img[i+1, j]>= stars_condition)  and np.all(img[i, j-1]>= stars_condition) and np.all(img[i+1, j+1]>= stars_condition) and np.all(img[i-1, j+1]>= stars_condition) and np.all(img[i-1, j-1]>= stars_condition) and np.all(img[i+1, j-1]>= stars_condition)):
-                    cont = cont - 8
     # Abrindo a imagem
     cv.imshow(main_win, img)
     print("Está secção possui: {} corpos celestes que emitem ou refletem luz".format(cont))
