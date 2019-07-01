@@ -157,7 +157,7 @@ if __name__ == '__main__':
 > Todas as linhas que iniciam com '#' são comentários que são ignoradas pelo programa.
 ## Testes
 
-Todos os testes realizados estão neste link: https://github.com/Lucasmaia435/PE.1/Testes.md
+Todos os testes realizados estão neste link: https://github.com/Lucasmaia435/PE.1/blob/master/Testes.md
 ## Considerações finais
 
 Ao realizar o testes, pode-se perceber que em imagens com poucos e pequenos objetos, a contagem obtém um maior êxito, graças a precisão em objetos que tem uma área menor que 3px², porém esse problema da precisão pode ser resolvido usando a detecção de áreas, afim de deixar a contagem mais precisa.
