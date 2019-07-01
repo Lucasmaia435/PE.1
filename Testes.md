@@ -20,6 +20,7 @@ Contador de objetos emissores e/ou refletores de luz no espaço
 
 ## Primeiro teste
 A seguinte imagem, possui 15 objetos, porém 19 pixels coloridos com cores a cima do padrão _light_condition_, ou seja, irão ser contados :
+
 <img src="images/test_15.png">
 
 Resultado:
@@ -51,6 +52,7 @@ Esse teste obteve uma contagem de 7 objetos a menos, devido a existência de um 
 
 A seguinte imagem, foi retirada da internet[1] :
 <img src="star.png">
+Resultado:
 ```console
 Está secção possui: 1960 corpos celestes que emitem ou refletem luz
 Aplicar filtro?[y/n]
