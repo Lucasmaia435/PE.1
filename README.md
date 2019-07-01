@@ -16,7 +16,7 @@ Alunos : Lucas Maia Rezende Costa e Ariel Louise Queiros de Morais
 Contador de objetos emissores e/ou refletores de luz no espaço
 </h1>
 Este trabalho foi feito no âmbito de realizar a contagem de objetos encontrados em imagens do espaço, a fim de futuramente ocorrer a diferenciação dos objetos através da sua coloração. Com a praticidade da contagem e identificação 
-seria possível, por exemplo, a identificação de lixo espacial, de cometas, meteoros, exoplanetas e diferentes tipos de estrelas de qualquer computador com acesso a uma imagem do céu noturno.
+seria possível, por exemplo, a identificação de lixo espacial, de cometas, meteoros, exoplanetas e diferentes tipos de estrelas de qualquer computador com acesso a uma imagem do céu noturno, facilitando o trabalho amador e acadêmico sem o uso de equipamentos de grande custo.
 <br>
 
 ## Tópicos
@@ -81,7 +81,7 @@ Numpy arrays, são estruturas de dados do módulo _Numpy_, e com essas estrutura
 ```python
 light_condition = np.array([12,12,12])
 ```
-A variável _'light_condition'_ é um numpy array que tem como valores em cada índice um valor de R,G ou B
+A variável _'light_condition'_ é um numpy array que tem como valores em cada índice um valor de R,G ou B :
 ```Python
     light_condition[0] = R
     light_condition[1] = G
@@ -156,6 +156,12 @@ if __name__ == '__main__':
 ```
 > Todas as linhas que iniciam com '#' são comentários que são ignoradas pelo programa.
 ## Testes
+
+Todos os testes realizados estão neste link: https://github.com/Lucasmaia435/PE.1
+## Considerações finais
+
+Ao realizar o testes, pode-se perceber que em imagens com poucos e pequenos objetos, a contagem obtém um maior êxito, graças a precisão em objetos que tem uma área menor que 3px², porém esse problema da precisão pode ser resolvido usando a detecção de áreas, afim de deixar a contagem mais precisa.
+
 
 ## Referências
 
