@@ -111,6 +111,8 @@ if (
 ```
 > Após a checagem de cores de cada pixel 'vizinho', e confirmar que todos são objetos também, ocorre uma diminuição de 4 unidades na contagem.
 
+<br>
+
 ## Algoritmo pronto
 ```python
 # Importando módulos
