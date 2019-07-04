@@ -52,6 +52,7 @@ Esse teste obteve uma contagem de 7 objetos a menos, devido a existência de um 
 
 A seguinte imagem, foi retirada da internet[1] :
 <img src="star.png">
+
 Resultado:
 ```console
 Está secção possui: 1960 corpos celestes que emitem ou refletem luz

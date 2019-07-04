@@ -20,13 +20,13 @@ seria possível, por exemplo, a identificação de lixo espacial, de cometas, me
 <br>
 
 ## Tópicos
-1. Algoritmo
-1. Módulos
-1. Percorrer os pixels
-1. Verificação e comparação de cores
-1. Filtro de correção de contagem  
-1. Testes
-1. Referências
+1. [Algoritmo](#Algoritmo)
+1. [Módulos](#Módulos)
+1. [Percorrer os pixels](#Percorrer os pixels)
+1. [Verificação e comparação de cores]()
+1. [Filtro de correção de contagem]()
+1. [Testes](#Testes)
+1. [Referências](#Referências)
 
 ## Algoritmo  
 O algoritmo do contador consiste em:
