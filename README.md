@@ -1,17 +1,4 @@
-<h2 align = "center">
-ESCOLA DE CIÊNCIAS E TECNOLOGIA
-<br>
-<br>
-PROBABILIDADE E ESTATÍSTICA 
-</h2>
-<br>
-<br>
-<h3>
-Professor : João Vital da Cunha Júnior 
-<br>
-Alunos : Lucas Maia Rezende Costa e Ariel Louise Queiros de Morais
-</h3></h3>
-<br>
+
 <h1 align='center'> 
 Contador de objetos emissores e/ou refletores de luz no espaço
 </h1>
