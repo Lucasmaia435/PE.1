@@ -9,9 +9,9 @@ seria possível, por exemplo, a identificação de lixo espacial, de cometas, me
 ## Tópicos
 1. [Algoritmo](#Algoritmo)
 1. [Módulos](#Módulos)
-1. [Percorrer os pixels](#Percorrer os pixels)
-1. [Verificação e comparação de cores]()
-1. [Filtro de correção de contagem]()
+1. [Percorrer os pixels](#Percorrer-os-pixels)
+1. [Verificação e comparação de cores](#Verificação-e-comparação-de-cores)
+1. [Filtro de correção de contagem](#Filtro-de-correção-de-contagem)
 1. [Testes](#Testes)
 1. [Referências](#Referências)
 
